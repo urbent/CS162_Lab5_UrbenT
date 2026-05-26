@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\School\\CS162N\\lab5\\CS162_Lab5_UrbenT\\ComplexClasseslab_master\\MexicanTrainDominos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2605D707-840C-7F09-531F-6002A3A71EEF}|MexicanTrainDominoes.csproj|c:\\school\\cs162n\\lab5\\cs162_lab5_urbent\\complexclasseslab_master\\mexicantraindominos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2605D707-840C-7F09-531F-6002A3A71EEF}|MexicanTrainDominoes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\School\\CS162N\\lab5\\CS162_Lab5_UrbenT\\ComplexClasseslab_master\\MexicanTrainDominos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\School\\CS162N\\lab5\\CS162_Lab5_UrbenT\\ComplexClasseslab_master\\MexicanTrainDominos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T06:06:23.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 754,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
