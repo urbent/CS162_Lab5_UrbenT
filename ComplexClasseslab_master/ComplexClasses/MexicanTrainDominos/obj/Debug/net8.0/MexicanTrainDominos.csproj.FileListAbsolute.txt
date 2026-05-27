@@ -1,0 +1,15 @@
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\MexicanTrainDominos\bin\Debug\net8.0\MexicanTrainDominos.exe
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\MexicanTrainDominos\bin\Debug\net8.0\MexicanTrainDominos.deps.json
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\MexicanTrainDominos\bin\Debug\net8.0\MexicanTrainDominos.runtimeconfig.json
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\MexicanTrainDominos\bin\Debug\net8.0\MexicanTrainDominos.dll
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\MexicanTrainDominos\bin\Debug\net8.0\MexicanTrainDominos.pdb
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\MexicanTrainDominos\obj\Debug\net8.0\MexicanTrainDominos.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\MexicanTrainDominos\obj\Debug\net8.0\MexicanTrainDominos.AssemblyInfoInputs.cache
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\MexicanTrainDominos\obj\Debug\net8.0\MexicanTrainDominos.AssemblyInfo.cs
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\MexicanTrainDominos\obj\Debug\net8.0\MexicanTrainDominos.csproj.CoreCompileInputs.cache
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\MexicanTrainDominos\obj\Debug\net8.0\MexicanTrainDominos.sourcelink.json
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\MexicanTrainDominos\obj\Debug\net8.0\MexicanTrainDominos.dll
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\MexicanTrainDominos\obj\Debug\net8.0\refint\MexicanTrainDominos.dll
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\MexicanTrainDominos\obj\Debug\net8.0\MexicanTrainDominos.pdb
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\MexicanTrainDominos\obj\Debug\net8.0\MexicanTrainDominos.genruntimeconfig.cache
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\MexicanTrainDominos\obj\Debug\net8.0\ref\MexicanTrainDominos.dll

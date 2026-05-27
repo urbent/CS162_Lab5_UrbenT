@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\School\\CS162N\\lab5\\CS162_Lab5_UrbenT\\ComplexClasseslab_master\\ComplexClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26B4A7A9-AD25-44D8-B90E-8CADA02A1DFA}|ProductCustomer\\ProductCustomer.csproj|c:\\school\\cs162n\\lab5\\cs162_lab5_urbent\\complexclasseslab_master\\complexclasses\\productcustomer\\testsforcustomerlistfunctionality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B4A7A9-AD25-44D8-B90E-8CADA02A1DFA}|ProductCustomer\\ProductCustomer.csproj|solutionrelative:productcustomer\\testsforcustomerlistfunctionality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestsForCustomerListFunctionality.cs",
+              "DocumentMoniker": "C:\\School\\CS162N\\lab5\\CS162_Lab5_UrbenT\\ComplexClasseslab_master\\ComplexClasses\\ProductCustomer\\TestsForCustomerListFunctionality.cs",
+              "RelativeDocumentMoniker": "ProductCustomer\\TestsForCustomerListFunctionality.cs",
+              "ToolTip": "C:\\School\\CS162N\\lab5\\CS162_Lab5_UrbenT\\ComplexClasseslab_master\\ComplexClasses\\ProductCustomer\\TestsForCustomerListFunctionality.cs",
+              "RelativeToolTip": "ProductCustomer\\TestsForCustomerListFunctionality.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T21:21:37.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 754,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

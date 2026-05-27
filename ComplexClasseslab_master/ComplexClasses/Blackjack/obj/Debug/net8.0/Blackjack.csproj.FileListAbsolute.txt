@@ -1,0 +1,5 @@
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\Blackjack\obj\Debug\net8.0\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\Blackjack\obj\Debug\net8.0\Blackjack.AssemblyInfoInputs.cache
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\Blackjack\obj\Debug\net8.0\Blackjack.AssemblyInfo.cs
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\Blackjack\obj\Debug\net8.0\Blackjack.csproj.CoreCompileInputs.cache
+C:\School\CS162N\lab5\CS162_Lab5_UrbenT\ComplexClasseslab_master\ComplexClasses\Blackjack\obj\Debug\net8.0\Blackjack.sourcelink.json
